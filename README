@@ -1,0 +1,7 @@
+MHC (HLA/KIR) are highly polymorphic and homologous genomic regions, which are very challenging even with longread sequencing. 
+Aims:
+[1] contig_simulator
+[2] sematic weight matrix for prior knowledge implementation
+[3] MSA presentation / haplotype (pair) presentation as Alphafold2
+[4] deep neuronal network with restnet + transformer 
+
